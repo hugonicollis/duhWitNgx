@@ -1,5 +1,16 @@
 {
-    "HELLO": "hello {{value}}",
-    "DASHBOARD":"Dashboard",
-    "HEROES":"Heroes"
+	"ADD": "Add",
+	"CLEAR": "Clear",
+	"DASHBOARD": "Dashboard",
+	"DETAILS": "{{name}} Details",
+	"GOBACK": "Go back",
+	"HELLO": "Hello {{value}}",
+	"HEROES": "Heroes",
+	"HERONAME": "Hero name:",
+	"HEROSEARCH": "Hero search:",
+	"ID": "ID:",
+	"MESSAGES": "Messages",
+	"NAME": "Name: ",
+	"SAVE": "Save ",
+	"TOPHEROES": "Top Heroes"
 }

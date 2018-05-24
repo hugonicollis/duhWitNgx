@@ -1,5 +1,16 @@
 {
-    "HELLO": "Olá {{value}}",
-    "DASHBOARD":"Painel",
-    "HEROES":"Herois"
+	"ADD": "Adicionar",
+	"CLEAR": "Limpar",
+	"DASHBOARD": "Painel",
+	"DETAILS": "Detalhes do(a) {{name}}",
+	"GOBACK": "Voltar",
+	"HELLO": "Olá {{value}}",
+	"HEROES": "Heróis",
+	"HERONAME": "Nome do herói:",
+	"HEROSEARCH": "Busca por herói:",
+	"ID": "ID:",
+	"MESSAGES": "Mensagens",
+	"NAME": "Nome: ",
+	"SAVE": "Salvar",
+	"TOPHEROES": "Heróis Topzeira"
 }
