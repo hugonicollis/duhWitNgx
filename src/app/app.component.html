@@ -1,4 +1,7 @@
 <h1>{{title}}</h1>
+<!--button*2 - > cria dois botoes-->
+<button (click)="setLang('en')">English</button>
+<button (click)="setLang('pt-BR')">Portugues</button>
 <div>{{ 'HELLO' | translate:param }}</div>
 <nav>
     <ul>
