@@ -1,3 +1,5 @@
 {
-    "HELLO": "olá {{value}}"
+    "HELLO": "Olá {{value}}",
+    "DASHBOARD":"Painel",
+    "HEROES":"Herois"
 }
